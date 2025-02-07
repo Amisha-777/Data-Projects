@@ -3,7 +3,7 @@
 ## 📌 Problem Statement
 Retail trade sales in Canada fluctuate due to various economic, seasonal, and market-driven factors. Analyzing these trends helps businesses, policymakers, and investors make informed decisions. This project aims to process retail trade data in Excel and visualize key insights through an interactive dashboard.
 
-## 📊 Data Source : [Statistics Canada. Table 20-10-0056-01  Monthly retail trade sales by province and territory (x 1,000)(https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010005601)]
+## 📊 Data Source : [Statistics Canada. Table 20-10-0056-01  Monthly retail trade sales by province and territory(https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010005601)]
 
 [Retail Trade Definition(https://ised-isde.canada.ca/app/ixb/cis/summary-sommaire/44-45)]
 
