@@ -29,7 +29,7 @@ This dashboard analyzes the box office performance of Marvel and DC superhero mo
 *   **Franchise Power:** Spider-Man & Avengers (Marvel), Batman (DC) are top performers.
 *   **Critical Acclaim:** *Spider-Man: Into the Spider-Verse* & *Black Panther* lead Marvel; *Superman* & *The Dark Knight* lead DC.
 *   **Gross to Budget Ratio:** Marvel showed higher ratios in the late 2000s/early 2010s. A decline is visible post-2020 for both. On average, films generated $3.6 in gross revenue for every $1 spent on production.
-*   **Success Rate: **  58.4% of the films in the dataset were financially successful.
+*   **Success Rate:**  58.4% of the films in the dataset were financially successful.
 
 ## Technologies Used
 *   Power BI
