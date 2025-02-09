@@ -5,8 +5,8 @@
 This project aims to analyze layoffs data using SQL, focusing on data cleaning, transformation, and exploratory data analysis (EDA) to extract meaningful insights.
 
 ## 📂 Dataset
-File Used: layoffs.csv
-Source: Contains layoff data from various companies, including company names, industries, total layoffs, and dates.
+File Used: [layoffs.csv](https://github.com/Amisha-777/Data-Projects/blob/main/Layoffs_Data_Analysis_SQL/layoffs.csv)
+Data Description: Contains layoff data from various companies, including company names, industries, total layoffs, and dates.
 
 ## 🏗️ Project Structure
 1️⃣ Data Cleaning (data_cleaning (layoffs).sql)
