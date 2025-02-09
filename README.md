@@ -6,6 +6,6 @@ This repository is created to showcase different Data Analysis and Visualization
 
 | S.N. | Project                 | Platform                 | Deliverables                              |
 |------|-------------------------|--------------------------|-------------------------------------------|
-| 1    |  Box Office Performance Analysis: Marvel vs DC  | POWER BI      | Dashboard, Insights |
+| 1    |  Box Office Performance Analysis: Marvel vs DC  | POWER BI      | Dashboard, Data Model, Cleaned Dataset(Power Query & DAX),Insights |
 | 2    | Retail Trade Analysis   | Excel      | Dashboard, Data Analysis(Pivot Tables), Insights|
 | 3    | Layoffs Data Analysis   | MySQL Workbench     | Cleaned dataset, SQL queries, EDA insights |
