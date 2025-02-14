@@ -1,5 +1,5 @@
 # London Bike-Sharing Data Analysis Dashboard
-[DASHBOARD LINK: Tableau Public] (https://public.tableau.com/app/profile/amisha.shrestha1688/viz/BikeRides-MovingAverageandHeatmap_17395023015910/Dashboard1)
+(DASHBOARD LINK: Tableau Public) [https://public.tableau.com/app/profile/amisha.shrestha1688/viz/BikeRides-MovingAverageandHeatmap_17395023015910/Dashboard1]
 
 ## 1. Project Overview
 This project is an end-to-end data analytics workflow that analyzes the London bike-sharing dataset using Python and Tableau. It focuses on dynamic visualizations, user-interactive dashboards, and automation techniques for efficient data processing.
