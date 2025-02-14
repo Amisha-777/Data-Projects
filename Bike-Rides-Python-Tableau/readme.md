@@ -1,4 +1,4 @@
-# 🚲 London Bike-Sharing Data Analysis Dashboard
+# 🚲 London Bike Ride Data Analysis Dashboard
 [DASHBOARD LINK: Tableau Public](https://public.tableau.com/app/profile/amisha.shrestha1688/viz/BikeRides-MovingAverageandHeatmap_17395023015910/Dashboard1)
 
 ## 📌 Project Overview
