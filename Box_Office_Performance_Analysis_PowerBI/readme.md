@@ -1,5 +1,5 @@
 # Box Office Performance Analysis: Marvel vs DC 📊🎥
-[DASHBOARD LINK](https://shorturl.at/J554j) 
+[DASHBOARD LINK](https://app.powerbi.com/view?r=eyJrIjoiYTE3YzhlNzYtYTA1Mi00MjhmLTgyMDAtMDVkZDI4NTA2Y2RjIiwidCI6ImI2NDE3Y2QwLTFmNzMtNDQ3MS05YTM5LTIwOTUzODIyYTM0YSIsImMiOjN9) 
 
 ## Problem Statement
 This dashboard analyzes the box office performance of Marvel and DC superhero movies, identifying key factors that drive financial success. By examining franchise impact, budget efficiency, release timing, and critical reception, the dashboard helps stakeholders in the movie industry make informed decisions to maximize revenue and audience engagement.
