@@ -18,7 +18,7 @@ This dashboard analyzes the box office performance of Marvel and DC superhero mo
 *   **Movie Enthusiasts:** Insights into favorite franchises and box office trends.
 
 ## 📊 Data & Methods
-1.  **Data Source:** [Kaggle](https://shorturl.at/34Rk5)
+1.  **Data Source:** Kaggle
 2.  **Data Transformation:** Power Query (cleaning, integration).
 3.  **Analysis:** DAX for metrics (Success Rate, Total Collections, Gross to Budget Ratio); statistical functions for trends.
 4.  **Visualization:** Power BI (bar charts, line charts, scatter plots).
