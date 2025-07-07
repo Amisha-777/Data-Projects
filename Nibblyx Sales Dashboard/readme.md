@@ -31,6 +31,40 @@ This dashboard helps visualize and understand core business metrics through:
 
 ---
 
+## 📊 Key Insights
+
+- **High-Priced Products Are More Profitable**: Products priced above $10 (e.g., Ginger Snaps, Caramel Biscuits) deliver high profit margins.
+
+- **Age Groups 30–59 Drive Most Revenue**: Buyers aged **30–44** and **45–59** dominate sales, representing key target demographics.
+
+- **Electronic Payments Lead**: **Credit Card** payments are most frequent, suggesting digital payment preference.
+
+- **Top Customers Matter**: The top 5 customers account for a significant share of revenue, suitable for loyalty and retention strategies.
+
+- **Sales Hotspots**: **Halifax**, **Ottawa**, and **Quebec City** show high sales volume and profitability, making them strategic locations for focused campaigns.
+
+- **Sales Performance is Not Always Linked to Volume**: Some products generate higher profit despite lower sales volume due to better pricing and margins.
+
+- **Top Sales Representatives Identified**: Sales reps like Travis Doyle and April Watkins outperform others, offering insights for recognition and training.
+
+- **Weekday vs. Weekend Trends**: Weekday transactions dominate overall activity—ideal for weekday promotions or staffing optimization.
+
+---
+
+## 👤 Who Can Use This Dashboard?
+
+This Excel dashboard is ideal for:
+
+| User Type | How They Benefit |
+|-----------|------------------|
+| **Business Analysts** | Explore data trends, uncover insights, and support decision-making |
+| **Sales Teams** | Monitor performance by rep, location, and product |
+| **Marketing Teams** | Identify target demographics and geography for campaigns |
+| **Executives/Managers** | Access top-line KPIs and strategic insights at a glance |
+| **Students/Learners** | Learn how to use Excel macros, PivotTables, and dashboarding for real-world projects |
+
+---
+
 ## 🔧 How to Use the Dashboard
 
 1. **Download the File**
@@ -52,46 +86,3 @@ This dashboard helps visualize and understand core business metrics through:
    - Scroll through interactive visuals showing revenue trends, top customers, sales performance, and profit breakdowns.
 
 ---
-
-## 📊 Key Insights
-
-- **High-Priced Products Are More Profitable**
-  - Products priced above $10 (e.g., Ginger Snaps, Caramel Biscuits) deliver high profit margins.
-
-- **Age Groups 30–59 Drive Most Revenue**
-  - Buyers aged **30–44** and **45–59** dominate sales, representing key target demographics.
-
-- **Electronic Payments Lead**
-  - **Credit Card** payments are most frequent, suggesting digital payment preference.
-
-- **Top Customers Matter**
-  - The top 5 customers account for a significant share of revenue, suitable for loyalty and retention strategies.
-
-- **Sales Hotspots**
-  - **Halifax**, **Ottawa**, and **Quebec City** show high sales volume and profitability, making them strategic locations for focused campaigns.
-
-- **Sales Performance is Not Always Linked to Volume**
-  - Some products generate higher profit despite lower sales volume due to better pricing and margins.
-
-- **Top Sales Representatives Identified**
-  - Sales reps like Travis Doyle and April Watkins outperform others, offering insights for recognition and training.
-
-- **Weekday vs. Weekend Trends**
-  - Weekday transactions dominate overall activity—ideal for weekday promotions or staffing optimization.
-
----
-
-## 👤 Who Can Use This Dashboard?
-
-This Excel dashboard is ideal for:
-
-| User Type | How They Benefit |
-|-----------|------------------|
-| **Business Analysts** | Explore data trends, uncover insights, and support decision-making |
-| **Sales Teams** | Monitor performance by rep, location, and product |
-| **Marketing Teams** | Identify target demographics and geography for campaigns |
-| **Executives/Managers** | Access top-line KPIs and strategic insights at a glance |
-| **Students/Learners** | Learn how to use Excel macros, PivotTables, and dashboarding for real-world projects |
-
----
-
