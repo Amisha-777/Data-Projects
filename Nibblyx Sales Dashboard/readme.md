@@ -5,7 +5,8 @@ An interactive Excel-based dashboard project for **Nibblyx**, a fictional premiu
 ---
 ## 📷 Dasboard Snap
 
-![image](https://github.com/user-attachments/assets/398a21ff-af38-4b13-bd14-47a842e384bb)
+
+![nibblyx](https://github.com/user-attachments/assets/216e1018-87c3-43a6-a118-2ee0dc42bb52)
 
 
 
