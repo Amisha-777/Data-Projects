@@ -87,4 +87,6 @@ This Excel dashboard is ideal for:
 5. **Explore KPIs and Charts**
    - Scroll through interactive visuals showing revenue trends, top customers, sales performance, and profit breakdowns.
 
+🖥️ Note: The dashboard was created and optimized on a 13.3-inch screen. For a better viewing experience, Excel's ribbon, formula bar, and gridlines were hidden to maximize space and visual clarity.
+
 ---
