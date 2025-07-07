@@ -26,9 +26,8 @@ This dashboard helps visualize and understand core business metrics through:
 - PivotTables & PivotCharts
 - Advanced Excel Formulas
 - Slicers for interactive filtering
-- Excel Buttons changing Absolute Value to Percentage and vice versa in charts
+- Buttons changing Absolute Value to Percentage and vice versa in charts
 - Macros for automation and interactivity
-- Excel Developer Tab 
 
 ---
 
