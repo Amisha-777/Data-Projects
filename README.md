@@ -10,3 +10,4 @@ This repository is created to showcase different Data Analysis and Visualization
 | 2    | Retail Trade Analysis   | Excel      | Dashboard, Data Analysis(Pivot Tables), Insights|
 | 3    | Layoffs Data Analysis   | MySQL Workbench     | Cleaned dataset, SQL queries, EDA insights |
 | 4    | Bike Rides   | Python, Tableau    | Cleaned dataset, Python Script for data extraction, manipulation and exploration,  Dashboard  |
+| 5    | Nibblyx Sales Dashboard   | Excel    | Cleaned dataset, Data Analysis(Pivot Tables), Dashboard,  Insights  |
